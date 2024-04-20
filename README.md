@@ -7,3 +7,8 @@ Creación de repositorios y manejo de MarkDown
 - viñeta dos
   
 [Google](https://www.google.com)
+
+```python
+def hola_mundo():
+    print("Hola, mundo!")
+```
