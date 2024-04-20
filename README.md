@@ -4,3 +4,4 @@
 Creación de repositorios y manejo de MarkDown
 - viñeta uno
 - viñeta dos
+- Autor 
